@@ -14,3 +14,5 @@ Yeah, weird, but this is the way how I want to show the ambiguity in communicati
 
 > [!IMPORTANT]
 > Before drawing conclusions, look for asterisks.
+
+*this app was rejected by Apple. No wonder...
