@@ -102,6 +102,15 @@
 			path = OnboardingView;
 			sourceTree = "<group>";
 		};
+		932CC0062AFFD37D00BF6260 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				93F417B029D9C50E00AF080A /* lyrics.json */,
+				93F417A529D9B5E400AF080A /* e-Ukraine-Bold.otf */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		9354DBE729D897D200485EA3 = {
 			isa = PBXGroup;
 			children = (
@@ -127,7 +136,7 @@
 				938B101329DAF3E900B9B9F3 /* Views */,
 				9354DBF729D897D400485EA3 /* Assets.xcassets */,
 				93F417A729D9B5FA00AF080A /* Info.plist */,
-				93F417A529D9B5E400AF080A /* e-Ukraine-Bold.otf */,
+				932CC0062AFFD37D00BF6260 /* Resources */,
 				9354DBF929D897D400485EA3 /* Preview Content */,
 			);
 			path = Oho;
@@ -146,7 +155,6 @@
 			children = (
 				9354DC0429D8989F00485EA3 /* WeatherData.swift */,
 				938D88D829D9711200FC1B30 /* Lyrics.swift */,
-				93F417B029D9C50E00AF080A /* lyrics.json */,
 				9361C06F2A307E20000CC07E /* AppError.swift */,
 			);
 			path = Model;
